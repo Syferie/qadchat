@@ -30,7 +30,7 @@
     "antd": "^5.26.6",
     "axios": "^1.7.5",
     "clsx": "^2.1.1",
-    "emoji-picker-react": "^4.9.2",
+    "emoji-picker-react": "^4.13.2",
     "framer-motion": "^12.23.6",
     "fuse.js": "^7.0.0",
     "heic2any": "^0.0.4",
